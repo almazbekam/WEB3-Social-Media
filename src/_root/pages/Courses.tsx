@@ -5,7 +5,7 @@ const Courses = () => {
     <>
       <div className="explore-container">
         <div className="flex-between w-full max-w-5xl mt-16 mb-7">
-          <h3 className="body-bold md:h3-bold">Hustler Learning Page</h3>
+          <h3 className="body-bold md:h3-bold">WEB3 Learning Page</h3>
 
           <div className="flex-center gap-3 bg-dark-3 rounded-xl px-4 py-2 cursor-pointer">
             <p className="small-medium md:base-medium text-light-2">All</p>
@@ -22,7 +22,7 @@ const Courses = () => {
             <li className="relative min-w-80 h-80">
               <Link to={`/tateC1/`} className="grid-post_link">
                 <img
-                  src={`https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/bltdb72464f511c94d4/629f54208eceeb5bcd099680/Untitled(13).jpg`}
+                  src={`https://www.blockchain-council.org/wp-content/uploads/2022/06/An-Insight-into-Web3-Technology-01.jpg`}
                   alt="post"
                   className="h-full w-full object-cover"
                 />
@@ -30,11 +30,11 @@ const Courses = () => {
               <div className="grid-post_user">
                 <div className="flex items-center justify-start gap-2 flex-1">
                   <img
-                    src={"https://www.therealworld-tate.info/wp-content/uploads/2023/05/the-real-world-andrew-tate-logo.png"}
+                    src={"https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU"}
                     alt="creator"
                     className="h-8 w-8 rounded-full"
                   />
-                  <p className="line-clamp-1">Andrew Tate | Hustlers University</p>
+                  <p className="line-clamp-1">freeCodeCamp.org</p>
                 </div>
               </div>
             </li>
@@ -79,7 +79,7 @@ const Courses = () => {
             <li className="relative min-w-80 h-80">
               <Link to={`/tateC2/`} className="grid-post_link">
                 <img
-                  src={`https://nypost.com/wp-content/uploads/sites/2/2022/12/tate-comp-1-1.jpg?quality=75&strip=all`}
+                  src={`https://i.ytimg.com/vi/CGFI7GRgyXk/maxresdefault.jpg`}
                   alt="post"
                   className="h-full w-full object-cover"
                 />
@@ -87,18 +87,18 @@ const Courses = () => {
               <div className="grid-post_user">
                 <div className="flex items-center justify-start gap-2 flex-1">
                   <img
-                    src={"https://www.therealworld-tate.info/wp-content/uploads/2023/05/the-real-world-andrew-tate-logo.png"}
+                    src={"https://yt3.ggpht.com/U-IFxSxFyOhO7kjhtEYLrxzlB935-V47Kvw8WRc7DPLjDcM0bfjnM-vZrIJcIb-oHK-1LAlO=s88-c-k-c0x00ffffff-no-rj"}
                     alt="creator"
                     className="h-8 w-8 rounded-full"
                   />
-                  <p className="line-clamp-1">Andrew Tate | Hustlers University</p>
+                  <p className="line-clamp-1">Doc Williams</p>
                 </div>
               </div>
             </li>
             <li className="relative min-w-80 h-80">
               <Link to={`/tateC3/`} className="grid-post_link">
                 <img
-                  src={`https://cssh.northeastern.edu/wp-content/uploads/2022/08/Andrew_Tate_1400.jpeg`}
+                  src={`https://i.ytimg.com/vi/jYEqoIeAoBg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOUHKP7UDdLfvTmTYBd8mCscAzMA`}
                   alt="post"
                   className="h-full w-full object-cover"
                 />
@@ -106,11 +106,11 @@ const Courses = () => {
               <div className="grid-post_user">
                 <div className="flex items-center justify-start gap-2 flex-1">
                 <img
-                    src={"https://www.therealworld-tate.info/wp-content/uploads/2023/05/the-real-world-andrew-tate-logo.png"}
+                    src={"https://yt3.ggpht.com/JsfWb8OZxlbzAMzbz_p9E9j55ZHoMd-tVFZDzBeuKJf8izHT_TRfvXij7A8Tl4hnkxic4NYDrg=s88-c-k-c0x00ffffff-no-rj"}
                     alt="creator"
                     className="h-8 w-8 rounded-full"
                   />
-                  <p className="line-clamp-1">Andrew Tate | Hustlers University</p>
+                  <p className="line-clamp-1">thirdweb</p>
                 </div>
               </div>
             </li>
@@ -136,7 +136,7 @@ const Courses = () => {
             <li className="relative min-w-80 h-80">
               <Link to={`/tateC4/`} className="grid-post_link">
                 <img
-                  src={`https://i.ytimg.com/vi/xy-NQzeXhYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmwGyCKObPpqSMofPoPMMBrs1reA`}
+                  src={`https://i.ytimg.com/vi/wHTcrmhskto/maxresdefault.jpg`}
                   alt="post"
                   className="h-full w-full object-cover"
                 />
@@ -144,11 +144,11 @@ const Courses = () => {
               <div className="grid-post_user">
                 <div className="flex items-center justify-start gap-2 flex-1">
                 <img
-                    src={"https://www.therealworld-tate.info/wp-content/uploads/2023/05/the-real-world-andrew-tate-logo.png"}
+                    src={"https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s88-c-k-c0x00ffffff-no-rj"}
                     alt="creator"
                     className="h-8 w-8 rounded-full"
                   />
-                  <p className="line-clamp-1">Andrew Tate | Hustlers University</p>
+                  <p className="line-clamp-1">Fireship</p>
                 </div>
               </div>
             </li>
